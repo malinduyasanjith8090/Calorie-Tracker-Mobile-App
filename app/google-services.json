@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47772334084",
+    "firebase_url": "https://calorieapp-4b055-default-rtdb.firebaseio.com",
+    "project_id": "calorieapp-4b055",
+    "storage_bucket": "calorieapp-4b055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47772334084:android:398b4d4204fb124c191d51",
+        "android_client_info": {
+          "package_name": "com.example.calorieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfG_GPguABgglZHWoCuQ3cU-EjY9FWPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
